@@ -9,11 +9,7 @@ dbeaver
 postgress sql 
 
 ![nvoids](https://github.com/felix11736/project2/assets/111951543/4ffa4b13-bc3b-4b46-a27d-d820715c53bc)
-▐▓█▀▀▀▀▀▀▀▀▀█▓▌░▄▄▄▄▄░
-▐▓█░░▀░░▀▄░░█▓▌░█▄▄▄█░
-▐▓█░░▄░░▄▀░░█▓▌░█▄▄▄█░
-▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░
-░░░░▄▄███▄▄░░░░░█████░
-![fbdf](https://github.com/felix11736/project2/assets/111951543/05b9282d-301a-4e57-a601-6bbc4308ea1f)
+
+
 
 
